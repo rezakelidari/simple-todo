@@ -1,0 +1,53 @@
+.todoItem {
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 1rem;
+  transition: 0.3s ease all;
+}
+
+.todoItem:hover {
+  box-shadow: 0 0.5rem 1rem 0rem rgba(0, 0, 0, 0.15);
+}
+
+.todoButtons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.todoButtons button {
+  outline: none;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: 0.3s ease all;
+}
+
+.todoButtons button.complete {
+  background: rgba(0, 200, 0, 0.2);
+}
+
+.todoButtons button.complete:hover {
+  background: rgba(0, 200, 0, 0.5);
+}
+
+.todoButtons button.uncomplete {
+  background: rgba(255, 255, 0, 0.2);
+}
+
+.todoButtons button.uncomplete:hover {
+  background: rgba(255, 255, 0, 0.5);
+}
+
+.todoButtons button.remove {
+  background: rgba(200, 0, 0, 0.2);
+}
+
+.todoButtons button.remove:hover {
+  background: rgba(200, 0, 0, 0.5);
+}
