@@ -3,4 +3,48 @@
   align-items: center;
   flex-direction: column;
   padding: 5rem 0;
+  gap: 2rem;
+}
+
+.formContainer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.formInput {
+  border: none;
+  outline: none;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  box-shadow: 0 0.5rem 1rem -0.5rem rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease all;
+}
+
+.formInput:focus {
+  box-shadow: 0 0.5rem 1rem 0rem rgba(0, 0, 0, 0.15);
+}
+
+.formAdd {
+  border: none;
+  outline: none;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  background: #ffffff;
+  box-shadow: 0 0.5rem 1rem -0.5rem rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease all;
+  cursor: pointer;
+}
+
+.formAdd:hover {
+  box-shadow: 0 0.5rem 1rem 0rem rgba(0, 0, 0, 0.15);
+}
+
+.todos {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
 }
