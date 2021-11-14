@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rezakelidari/simple-todo">
+  <a href="https://github.com/rezakelidari/simple-todo/">
     <img src="https://user-images.githubusercontent.com/62962597/141681250-577f0f80-e69e-4372-8c07-b00f78cda8c8.png" alt="Logo" width="640" height="360">
   </a>
 
@@ -14,9 +14,9 @@
     <br />
     <a href="https://simple-todo-one.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/rezakelidari/simple-todoissues">Report Bug</a>
+    <a href="https://github.com/rezakelidari/simple-todo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rezakelidari/simple-todoissues">Request Feature</a>
+    <a href="https://github.com/rezakelidari/simple-todo/issues">Request Feature</a>
   </p>
 </div>
 
@@ -78,6 +78,6 @@ Reza Kelidari
 - [Telegram: @rezakelidari](https://t.me/rezakelidari/)
 - [reza.phoenix.1382@gmail.com](mailto:reza.phoenix.1382@gmail.com)
 
-Project Link: [https://github.com/rezakelidari/simple-todo](https://github.com/rezakelidari/simple-todo)
+Project Link: [https://github.com/rezakelidari/simple-todo](https://github.com/rezakelidari/simple-todo/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
