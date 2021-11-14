@@ -2,15 +2,10 @@ import React, { useRef } from "react";
 import Styles from "./styles/App.module.css";
 import useLocalStorage from "./hooks/useLocalStorage";
 import Todo from "./components/Todo";
-import { useEffect } from "react/cjs/react.development";
 
 function App() {
   const [todos, setTodos] = useLocalStorage("todos");
   const inputRef = useRef(null);
-
-  useEffect(() => {
-    inputRef.current.focus();
-  }, []);
 
   return (
     <div className={Styles.App}>
@@ -22,6 +17,7 @@ function App() {
             placeholder="Type a TODO"
             className={Styles.formInput}
             ref={inputRef}
+            autoFocus
           />
           <button
             onClick={() => {
