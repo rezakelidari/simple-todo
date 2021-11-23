@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rezakelidari/simple-todo/">
-    <img src="https://user-images.githubusercontent.com/62962597/141681250-577f0f80-e69e-4372-8c07-b00f78cda8c8.png" alt="Logo" width="640" height="360">
+    <img src="https://user-images.githubusercontent.com/62962597/141681250-577f0f80-e69e-4372-8c07-b00f78cda8c8.png" alt="Logo" width="500" height="360">
   </a>
 
 <h1 align="center">Symple Todo</h1>
