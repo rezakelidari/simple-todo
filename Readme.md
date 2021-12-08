@@ -7,7 +7,7 @@
     <img src="https://user-images.githubusercontent.com/62962597/141681250-577f0f80-e69e-4372-8c07-b00f78cda8c8.png" alt="Logo" width="500" height="360">
   </a>
 
-<h1 align="center">Symple Todo</h1>
+<h1 align="center">Simple Todo</h1>
   <p align="center">
     A simple TODO site that stores TODOs using localstorage, implemented with React.js
     <br />
